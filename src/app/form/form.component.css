@@ -1,0 +1,49 @@
+/* .form-group {
+    margin-bottom: 10rem;
+}
+
+.form-control {
+    width: 15rem !important;
+}
+
+.form-control.ng-touched.ng-invalid {
+    border-color: red;
+  } */
+
+  .form-group {
+    margin-bottom: 200px;
+  }
+ .form-control {
+  width: 20rem;
+  height: 3rem;
+  border-radius: 14px;
+ }
+ label {
+  font-size: 22px;
+  margin-right: 2rem;
+ }
+ h5{
+  font-size: 35px;
+    text-align: center;
+ }
+ .btn {
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #45a049; 
+}
+  .form-control.ng-touched.ng-invalid {
+    border-color: red;
+  }
